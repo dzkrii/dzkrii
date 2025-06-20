@@ -21,13 +21,6 @@ Seorang pengembang web yang bersemangat dari Medan, Indonesia. Saya suka membang
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dzkrii&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzkrii&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170"/>
-</div>
-
 ## 🏆 GitHub Trophy
 
 <div align="center">
@@ -39,20 +32,6 @@ Seorang pengembang web yang bersemangat dari Medan, Indonesia. Saya suka membang
 <div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=dzkrii&theme=react-dark" alt="Contribution Graph" width="100%"/>
 </div>
-
-## 🎮 Mau Main Game?
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=Ayo+Main+Snake!" alt="Typing SVG" /></a>
-</div>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzkrii/dzkrii/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzkrii/dzkrii/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dzkrii/dzkrii/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
 
 ## 📫 Hubungi Saya
 
