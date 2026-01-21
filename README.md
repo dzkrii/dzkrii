@@ -50,16 +50,8 @@ I'm a passionate Full-Stack Developer with experience in building modern web app
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzkrii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dzkrii&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzkrii&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF" alt="Top Languages" height="170"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dzkrii&theme=discord&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
