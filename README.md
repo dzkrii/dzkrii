@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer from Indonesia 🇮🇩
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=Building+web+applications;Laravel+%7C+React+%7C+Next.js;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=Building+web+applications;Laravel+%7C+React+%7C+Next.js;Always+learning+something+new" alt="Typing SVG" />
 
 </div>
 
@@ -51,7 +51,7 @@ I'm a passionate Full-Stack Developer with experience in building modern web app
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dzkrii&theme=tokyonight&hide_border=true&background=1A1B27&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=dzkrii&theme=tokyonight&hide_border=true&background=1A1B27&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
 </div>
 
@@ -61,7 +61,7 @@ I'm a passionate Full-Stack Developer with experience in building modern web app
 
 <div align="center">
   <a href="https://github.com/dzkrii/marupos">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=dzkrii&repo=marupos&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF" alt="Marupos"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=dzkrii&repo=marupos&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38BDF8&icon_color=38BDF8" alt="Marupos"/>
   </a>
 </div>
 
@@ -73,14 +73,14 @@ I'm a passionate Full-Stack Developer with experience in building modern web app
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatahul-ahmad-dzikri)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatahulahmaddzikri@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=safari&logoColor=white)](https://dzkrii.github.io/kyuradev-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=safari&logoColor=white)](https://fatahul.my.id)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dzkrii&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=dzkrii&style=for-the-badge&color=38BDF8" alt="Profile Views"/>
 
   <br/><br/>
 
