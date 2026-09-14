@@ -47,12 +47,11 @@ I'm a passionate Full-Stack Developer with experience in building modern web app
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=dzkrii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" />
-<img height="180em" src="https://streak-stats.demolab.com?user=dzkrii&theme=tokyonight&hide_border=true&background=1A1B27&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=dzkrii&theme=tokyonight&hide_border=true&background=1A1B27&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
 
 </div>
 
