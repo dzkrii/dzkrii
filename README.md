@@ -14,9 +14,9 @@
 
 I'm a passionate Full-Stack Developer with experience in building modern web applications. Currently balancing my studies while working on real-world projects. I love crafting elegant solutions and continuously expanding my skill set.
 
-- 🔭 Currently working on **exciting full-stack projects**
-- 🌱 Always exploring new technologies and best practices
-- ⚡ Fun fact: I turn ideas into functional applications
+- 🔭 Working on full-stack web apps
+- 🌱 Learning new tools when a project needs them
+- ⚡ Builds web apps for internal systems
 
 ---
 
@@ -72,7 +72,7 @@ I'm a passionate Full-Stack Developer with experience in building modern web app
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatahul-ahmad-dzikri)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatahulahmaddzikri@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatahuldzikri@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=safari&logoColor=white)](https://fatahul.my.id)
 
 </div>
